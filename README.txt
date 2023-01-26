@@ -27,7 +27,7 @@ List of source and header files:
 Launching Instructions:
 1. Open the Command prompt and navigate to the directory where the files are stored
 2. Compile the files using the Makefile by typing "make" in the Command prompt then press Enter
-3. Run the executable created which is called "midterm" by typing "./midterm" and then press Enter
+3. Run the executable created which is called "output" by typing "./output" and then press Enter
 
 Note(s)/Assumption(s):
 1. The RandomIdGenerator class was created to generate id's for club members and books.
